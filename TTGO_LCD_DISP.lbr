@@ -176,16 +176,19 @@ BACKLIGHT  - IO4</text>
 <text x="-15.24" y="15.24" size="1.27" layer="97">ADC, RTC_13</text>
 <text x="-15.24" y="10.16" size="1.27" layer="97">ADC, RTC_14</text>
 <text x="-15.24" y="5.08" size="1.27" layer="97">ADC, RTC_15</text>
-<text x="12.7" y="40.64" size="1.27" layer="97" rot="R180">ADC, IN_only, RTC_0</text>
-<text x="12.7" y="25.4" size="1.27" layer="97" rot="R180">ADC, IN_only, RTC_3</text>
+<text x="12.7" y="40.64" size="1.27" layer="97" rot="R180">ADC, RTC_0</text>
+<text x="12.7" y="25.4" size="1.27" layer="97" rot="R180">ADC, RTC_3</text>
 <text x="12.7" y="20.32" size="1.27" layer="97" rot="R180">ADC, RTC_0</text>
 <text x="12.7" y="15.24" size="1.27" layer="97" rot="R180">ADC, RTC_8</text>
 <text x="12.7" y="10.16" size="1.27" layer="97" rot="R180">ADC, RTC_6</text>
 <text x="12.7" y="5.08" size="1.27" layer="97" rot="R180">ADC, RTC_7</text>
 <text x="12.7" y="0" size="1.27" layer="97" rot="R180">ADC, RTC_17</text>
 <text x="-15.24" y="25.4" size="1.27" layer="97">TXD_2</text>
-<text x="12.7" y="30.48" size="1.27" layer="97" rot="R180">ADC</text>
-<text x="12.7" y="35.56" size="1.27" layer="97" rot="R180">ADC, </text>
+<text x="12.7" y="30.48" size="1.27" layer="97" rot="R180"> ADC</text>
+<text x="12.7" y="35.56" size="1.27" layer="97" rot="R180"> ADC</text>
+<wire x1="19.05" y1="23.114" x2="19.05" y2="42.672" width="0.254" layer="97"/>
+<wire x1="19.05" y1="42.672" x2="5.842" y2="42.672" width="0.254" layer="97"/>
+<text x="5.334" y="43.434" size="1.27" layer="97"> IN_only</text>
 </symbol>
 </symbols>
 <devicesets>
